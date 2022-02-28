@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: tv.lmk.yt_dlp_gui.MainWindow
+Class-Path: kotlin-stdlib.jar kotlin-reflect.jar kotlin-test.jar
+
