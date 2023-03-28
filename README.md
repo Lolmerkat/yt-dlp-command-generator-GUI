@@ -1,4 +1,5 @@
-#NOTE: I will not continue to develop this project as I will most likely release a v2 after I finished some more important projects first.
+### NOTE: 
+I will not continue to develop this project as I will most likely release a v2 after I finished some more important projects first.
 
 # yt-dlp-command-generator-GUI
 
