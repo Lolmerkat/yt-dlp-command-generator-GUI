@@ -1,3 +1,5 @@
+###NOTE: I will not continue to develop this project as I will most likely release a v2 after I finished some more important projects first.
+
 # yt-dlp-command-generator-GUI
 
 This is a only a GENERATOR for commands, not a GUI for yt-dlp itself.
